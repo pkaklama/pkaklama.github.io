@@ -123,7 +123,7 @@ This event was based on the format used for the established modelling camps and 
 
 ### Tutoring
 
-<b>University of Edinburgh, BSc Mathematics courses:</b>
+#### University of Edinburgh, BSc Mathematics courses
 <ul>
 <li> Honours Differential Equations (fall 2021) </li>
 <li> Introduction to Linear Algebra (fall 2021) </li>
@@ -134,7 +134,7 @@ This event was based on the format used for the established modelling camps and 
 </ul>
 <br>
 
-<b>Technical University of Denmark, MSc Applied & Computational Mathematics courses:</b>
+#### Technical University of Denmark, MSc Applied & Computational Mathematics courses:
 <ul>
 <li> Typing-up exercise solutions for tutors' notes for Dynamical Systems I (spring 2018) </li>
 <li> Scientific Computing for Differential Equations <i>[in Matlab]</i> (spring 2017 & spring 2018) </li>
@@ -191,7 +191,7 @@ applications"-minisymposium, <a href="https://dynamicsdays2021.univ-cotedazur.fr
     </ul>   </li>  </ul>	
 <hr>
 
-<h3>Participation in Workshops / Conferences</h3>
+### Participation in Workshops / Conferences
 <ul>
 <li> <a href="https://ima.org.uk/18115/ima-maths-in-music-conference/" target="_blank">IMA Maths in Music Conference</a>; Royal College of Music, London, U.K. (13 to 15 July 2022)</li>
 <li> <a href="https://www.icms.org.uk/V_ModelCamp2020.php" target="_blank">ICMS Virtual Model Camp 2020</a>; 	International Centre for Mathematical Sciences, Edinburgh, U.K. (19 to 22 May 2020)</li>
