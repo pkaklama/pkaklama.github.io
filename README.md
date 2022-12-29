@@ -112,11 +112,11 @@ This event was based on the format used for the established modelling camps and 
 ### Project supervision
 <ul>
 
-<li> Hannah Riley: <b>"Applications of geometric singular perturbation theory to quantum systems"</b>; MSc Thesis in Applied & Computational Mathematics, University of Edinburgh (informal co-supervisor, spring 2021)<br> <br>
+<li> Hannah Riley: <b>"Applications of geometric singular perturbation theory to quantum systems"</b>; MSc Thesis in Applied & Computational Mathematics, University of Edinburgh (informal co-supervisor, spring 2021)</li><br> <br>
 
-<li> Cassia Edwards, Nisar Khan, Arjun N. Ramamurthy: <b>"Generalising the motion of the magnetic spherical pendulum for n magnets using numerical simulation"</b>; BSc research project, <a href="https://www.eusa.ed.ac.uk/activities/societies/society/youngresearchers/" target="_blank">Edinburgh University Youth Research Association</a> (main supervisor, December 2020 - March 2021)<br> <br>
+<li> Cassia Edwards, Nisar Khan, Arjun N. Ramamurthy: <b>"Generalising the motion of the magnetic spherical pendulum for n magnets using numerical simulation"</b>; BSc research project, <a href="https://www.eusa.ed.ac.uk/activities/societies/society/youngresearchers/" target="_blank">Edinburgh University Youth Research Association</a> (main supervisor, December 2020 - March 2021)</li><br> <br>
 
-<li> Yichen Su: <b>"Mixed-mode dynamics in models for El-Ni&ntildeo southern oscillation"</b>; MSc Thesis in Applied & Computational Mathematics, University of Edinburgh (informal co-supervisor, summer 2020)
+<li> Yichen Su: <b>"Mixed-mode dynamics in models for El-Ni&ntildeo southern oscillation"</b>; MSc Thesis in Applied & Computational Mathematics, University of Edinburgh (informal co-supervisor, summer 2020) </li>
 </ul>
 
 <hr>
