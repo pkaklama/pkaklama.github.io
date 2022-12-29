@@ -43,56 +43,9 @@ pkaklama@physics.auth.gr
 <details><summary><b>P. K.</b>, K. U. Kristiansen:  "Regularization and geometry of piecewise-smooth systems with intersecting discontinuity sets", <i> SIAM J. Appl. Dyn. Syst., 18(3), 1225–1264 </i> (2019); <a href="https://epubs.siam.org/doi/abs/10.1137/18M1214470" target="_blank">SIADS link</a>, <a href="https://arxiv.org/abs/1909.09810" target="_blank">arXiv preprint</a></summary>
 <p><b>Abstract:</b>	In this work, we study the dynamics of piecewise smooth systems on a codimension-2 transverse intersection of two codimension-1 discontinuity sets. The Filippov convention can be extended to such intersections, but this approach does not provide a unique sliding vector and, as opposed to the classical sliding vector-field on codimension-1 discontinuity manifolds, there is no agreed notion of stability in the codimension-2 context. In this paper, we perform a regularization of the piecewise smooth system, introducing two regularization functions and a small perturbation parameter. Then, based on singular perturbation theory, we define sliding and stability of sliding through a critical manifold of the singularly perturbed, regularized system. We show that this notion of sliding vector-field coincides with the Filippov one. The regularized system gives a parameterized surface (the canopy) independent of the regularization functions. This surface serves as our natural basis to derive new and simple geometric criteria on the existence, multiplicity and stability of the sliding flow, depending only on the smooth vector fields around the intersection. Interestingly, we are able to show that if there exist two sliding vector-fields then one is a saddle and the other is of focus/node/center type. This means that there is at most one stable sliding vector-field. We then investigate the effect of the choice of the regularization functions, and, using a blowup approach, we demonstrate the mechanisms through which sliding behavior can appear or disappear on the intersection and describe what consequences this has on the dynamics on the adjacent codimension-1 discontinuity sets. Finally, we show the existence of canard explosions of regularizations of PWS systems in ℝ<sup>3</sup> that depend on a single unfolding parameter.</p></details>
 </ul>
+
+<a href="https://scholar.google.gr/citations?user=R6yN8vQAAAAJ&hl=en" target="_blank">Google scholar profile</a>
 <hr>
 <!--<p> Authors: Title. <i>Journal</i>, Volume, Pages, (year)</p>-->
 
-<a href="https://scholar.google.gr/citations?user=R6yN8vQAAAAJ&hl=en" target="_blank">Google scholar profile</a></h3>
 
-
-<h3>(Co-)Organised events</h3>
-<ul>
-
-<details><summary><b>Recent advances in mathematical modelling in neuroscience Minisymposium</b> (<a href="https://ecmtb2022.org/" target = "blank">12th European Conference on Mathematical and Theoretical Biology</a>, 19-23 September 2022)</summary>
-<p>Dynamical systems have long been an important tool to model and understand biological phenomena, for instance in relation to neuronal, cardiac, and other physiological processes. In this framework,
-finding a sound balance between model complexity, biological plausibility and computational efficiency
-is a challenge of utmost importance, in order to not only advance our knowledge in the field, but also
-to address contemporary problems and needs in the corresponding fields of high medical and societal
-importance. In this mini-symposium, we present four recent works in the broad field of mathematical
-neuroscience; namely, each speaker presents their contribution in the advancement of one of the following
-topics: synaptic transmission; complex multi-timescale oscillations of membrane potentials; firing dynam-
-ics in pyramidal neurons and interneurons; and attractors and waves in networks of integrate-and-fire
-neurons. During the talks, the variety of tools and the methodologies which have been used to reach the
-novel analytical results on the aforementioned models will be discussed, with emphasis on open questions
-that emerged during this process and their relations to the behaviour of the corresponding biological
-systems.</p></details><br>
-
-<details><summary><b>Edinburgh Dynamical Systems Study Groups 2020-2022</b> (<a href="abstract.pdf" target = "blank">abstracts 2020</a>; <a href="abstract21.pdf" target = "blank">abstracts 2021</a>; <a href="abstract22.pdf" target = "blank">abstracts 2022</a>)</summary>
-<p>Main organiser and coordinator of series of presentations from MSc and PhD students situated across various Universities and whose work is within the broad area of dynamical systems. The aim of the initiative was to provide a forum for the participants to present their progress in an informal setting and to exchange knowledge and ideas in the field.</p></details><br>
-
-<details><summary><b>Edinburgh SIAM-IMA Study Group with Industry</b> (<a href="https://www.icms.org.uk/events/workshops/SIAMSG2021" target="_blank">Edinburgh SIAM-IMA Student Chapter Events</a>; 28 June - 1 July 2021)</summary>
-<p>The Edinburgh SIAM-IMA student chapter hosted a week-long student study group with industry supported by the Maxwell Institute for Mathematical Sciences, the Edinburgh Mathematical Society (EMS), the Glasgow Mathematical Journal Trust (GMJT), the Society for Industrial and Applied Mathematics (SIAM), and the Institute for Mathematics and its Applications (IMA). 
-
-The event offered:
-
-1.       An opportunity for graduate students to apply mathematics in an industrial setting,
-
-2.       A chance for collaboration with students from different institutions and from a wide range of research areas, and
-
-3.       Essential skills training in communication and presentation skills.
-
-This event was based on the format used for the established modelling camps and study groups, and offered an opportunity to work on real life industrial problems. </p></details><br>
-
-
- <details><summary><b>Maxwell PG & SIAM-IMA joint Colloquium</b> (<a href="https://siam-ima.maxwell.ac.uk" target="_blank">Edinburgh SIAM-IMA Student Chapter</a> in collaboration with the <a href="https://blogs.ed.ac.uk/pgrmath/?page_id=37" target="_blank">Maxwell Institute Post Graduate Colloquium</a>; 29 January 2021)</summary>
-<p></p></details><br>
-
-<details><summary><b>PhD Alumni Talks</b> (<a href="https://siam-ima.maxwell.ac.uk/events" target="_blank">Edinburgh SIAM-IMA Student Chapter Events</a>; monthly, since October 2020)</summary>
-<p>PhD alumni from UoE and HWU were invited to talk about their industrial experience, ranging from PhD internships to start-up companies and corporate positions. Examples include alumni who had been involved with the Edinburgh SIAM-IMA Student Chapter during their studies.</p></details><br>
-
- <details><summary><b>Maths Researh: What's it like?</b> (<a href="https://siam-ima.maxwell.ac.uk/events" target="_blank">Edinburgh SIAM-IMA Student Chapter Events</a>; 15 November 2020)</summary>
-<p>An afternoon of talks from current PhD students at Edinburgh and Heriot-Watt to give an idea of research in mathematics. The event will be of interest to undergraduate students that are inclined to pursue a PhD in the future, but also to anyone who is curious about what goes on in the department outside of	 teaching. The event could also provide a suggestion of possible areas for a research project for final year students.</p></details><br>
-
-</ul>
-<hr>
-
-</div>
