@@ -43,7 +43,7 @@ pkaklama@physics.auth.gr
 </ul>
 <hr>
 <!--<p> Authors: Title. <i>Journal</i>, Volume, Pages, (year)</p>-->
-</div>
+
 <a href="https://scholar.google.gr/citations?user=R6yN8vQAAAAJ&hl=en" target="_blank">Google scholar profile</a></h3>
 
 
@@ -93,7 +93,7 @@ This event was based on the format used for the established modelling camps and 
 </ul>
 <hr>
 
-<h3>Engagement / Service</h3>
+## Engagement / Service
 <ul>
 
 <li>Peer reviewer for the following journals:
