@@ -142,26 +142,26 @@ This event was based on the format used for the established modelling camps and 
 <hr>
 
 
-<h3>Talks</h3>
+### Talks
 <ul>
-<li>Geometric singular perturbation analysis of the multi-timescale Hodgkin-Huxley equations; <a href="https://team.inria.fr/mathneuro/mathneuro-seminar-13/" target="_blank">INRIA MathNeuro Seminars</a> (4 April 2022) 
-<li>Geometric singular perturbation theory and mixed-mode oscillations; "12th Week Dedicated to Maths", Kastoria, Greece (9 May 2022) 
+<li>Geometric singular perturbation analysis of the multi-timescale Hodgkin-Huxley equations; <a href="https://team.inria.fr/mathneuro/mathneuro-seminar-13/" target="_blank">INRIA MathNeuro Seminars</a> (4 April 2022) </li>
+<li>Geometric singular perturbation theory and mixed-mode oscillations; "12th Week Dedicated to Maths", Kastoria, Greece (9 May 2022) </li>
 <li>Geometric singular perturbation analysis of the multi-timescale Hodgkin-Huxley equations; "Multiple time scale dynamics and
-applications"-minisymposium, <a href="https://dynamicsdays2021.univ-cotedazur.fr/minisymposia2021/Multiple_time_scale_dynamics_and_applications/" target="_blank">Dynamics Days Europe 2021</a> (27 August 2021) 
-<li>Bifurcations of mixed-mode oscillations in three time-scale systems; <a href="http://math.bu.edu/dynamics/seminar.html" target="_blank">Boston University Dynamical Systems Seminar</a> (29 March 2021)
-<li>Geometric singular perturbation theory & multi-timescale dynamics; <a href="https://petkou.webpages.auth.gr/Xmas20/" target="_blank">3rd Thessaloniki Student Workshop on Theoretical Physics</a> (23 January 2021)
-<li>Geometric singular perturbation analysis of the multi-timescale Hodgkin-Huxley equations;  <a href="https://sites.google.com/view/siam-ima-reading-chapter/timetable?authuser=1" target="_blank">University of Reading SIAM-IMA Student Chapter Online Conference</a> (3 June 2020)
-<li>Near-integrable structures and Shilnikov homoclinic phenomena in three-timescale systems; Talk at the Dynamical Systems Section, Université Côte d'Azur (10 December 2019)
-<li>Mixed-mode oscillations in three-timescale systems; Seminar talk, Department of Applied Mathematics & Computer Science, Technical University of Denmark (1 October 2019)
-<li>"What is slow-fast dynamics?"; Postgraduate Colloquium, University of Edinburgh (27 September 2019)
-<li>Multiple-scale dynamics and perturbations; 5min-presentation, PhD Conference, University of Edinburgh (20 September 2019)
-<li>Geometry of an extended prototypical three-timescale system: bifurcations of mixed-mode oscillations; "Recent advances in slow-fast dynamics"-minisymposium, <a href="https://dyndays.uni-rostock.de/home/" target="_blank">Dynamics Days Europe 2019</a>, (5 September 2019) 
-<li>Geometry of an extended prototypical three-timescale system: bifurcations of mixed-mode oscillations; <a href="https://www.icms.org.uk/slowfastival.php" target="_blank">Edinburgh Slow-fast-ival workshop</a>, International Centre for Mathematical Sciences, Edinburgh (4 July 2019)
-<li> Mixed-mode oscillations in three-timescale systems, <a href="https://www.maths.manchester.ac.uk/~siam/snscc19/" target="_blank">SIAM UKIE National Student Chapter Conference</a>, Manchester, U.K (11 June 2019)
-<li> Global bifurcations of mixed-mode oscillations in three-timescale systems; Seminar talk, Aristotle University of Thessaloniki, Department of Physics (16 May 2019) 
-<li>Existence, multiplicity and stability of solutions in piecewise smooth systems with intersecting discontinuities; 10th Week dedicated to Maths, Greek Mathematical Society, Thessaloniki (29 April 2018)
-<li>Sliding vectors on codimension-2 intersections of discontinuity sets in piecewise smooth dynamical systems;  <a href="https://lfcs.lakecomoschool.org" target="_blank">Let's Face Complexity: New Bridges Between Physical and Social Sciences</a> summer school, Lake Como School of Advanced Studies, Italy (6 September 2017)
-<li> Symbolic dynamics and chaotic maps; 7th Week dedicated to Maths, Greek Mathematical Society, Thessaloniki (18 March 2015)
+applications"-minisymposium, <a href="https://dynamicsdays2021.univ-cotedazur.fr/minisymposia2021/Multiple_time_scale_dynamics_and_applications/" target="_blank">Dynamics Days Europe 2021</a> (27 August 2021) </li>
+<li>Bifurcations of mixed-mode oscillations in three time-scale systems; <a href="http://math.bu.edu/dynamics/seminar.html" target="_blank">Boston University Dynamical Systems Seminar</a> (29 March 2021)</li>
+<li>Geometric singular perturbation theory & multi-timescale dynamics; <a href="https://petkou.webpages.auth.gr/Xmas20/" target="_blank">3rd Thessaloniki Student Workshop on Theoretical Physics</a> (23 January 2021)</li>
+<li>Geometric singular perturbation analysis of the multi-timescale Hodgkin-Huxley equations;  <a href="https://sites.google.com/view/siam-ima-reading-chapter/timetable?authuser=1" target="_blank">University of Reading SIAM-IMA Student Chapter Online Conference</a> (3 June 2020)</li>
+<li>Near-integrable structures and Shilnikov homoclinic phenomena in three-timescale systems; Talk at the Dynamical Systems Section, Université Côte d'Azur (10 December 2019)</li>
+<li>Mixed-mode oscillations in three-timescale systems; Seminar talk, Department of Applied Mathematics & Computer Science, Technical University of Denmark (1 October 2019)</li>
+<li>"What is slow-fast dynamics?"; Postgraduate Colloquium, University of Edinburgh (27 September 2019)</li>
+<li>Multiple-scale dynamics and perturbations; 5min-presentation, PhD Conference, University of Edinburgh (20 September 2019)</li>
+<li>Geometry of an extended prototypical three-timescale system: bifurcations of mixed-mode oscillations; "Recent advances in slow-fast dynamics"-minisymposium, <a href="https://dyndays.uni-rostock.de/home/" target="_blank">Dynamics Days Europe 2019</a>, (5 September 2019) </li>
+<li>Geometry of an extended prototypical three-timescale system: bifurcations of mixed-mode oscillations; <a href="https://www.icms.org.uk/slowfastival.php" target="_blank">Edinburgh Slow-fast-ival workshop</a>, International Centre for Mathematical Sciences, Edinburgh (4 July 2019)</li>
+<li> Mixed-mode oscillations in three-timescale systems, <a href="https://www.maths.manchester.ac.uk/~siam/snscc19/" target="_blank">SIAM UKIE National Student Chapter Conference</a>, Manchester, U.K (11 June 2019)</li>
+<li> Global bifurcations of mixed-mode oscillations in three-timescale systems; Seminar talk, Aristotle University of Thessaloniki, Department of Physics (16 May 2019) </li>
+<li>Existence, multiplicity and stability of solutions in piecewise smooth systems with intersecting discontinuities; 10th Week dedicated to Maths, Greek Mathematical Society, Thessaloniki (29 April 2018)</li>
+<li>Sliding vectors on codimension-2 intersections of discontinuity sets in piecewise smooth dynamical systems;  <a href="https://lfcs.lakecomoschool.org" target="_blank">Let's Face Complexity: New Bridges Between Physical and Social Sciences</a> summer school, Lake Como School of Advanced Studies, Italy (6 September 2017)</li>
+<li> Symbolic dynamics and chaotic maps; 7th Week dedicated to Maths, Greek Mathematical Society, Thessaloniki (18 March 2015)</li>
 </ul>
 <hr>
 
