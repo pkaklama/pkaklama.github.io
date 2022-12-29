@@ -22,7 +22,7 @@ pkaklama@physics.auth.gr
 </div>
 
 
-<div style="float:left; width:50%; font-size:17.4px">
+<div style="float:left; width:100%; font-size:17.4px">
 <h3>Publications (click for details)</h3>
 
 
