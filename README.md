@@ -42,5 +42,155 @@ pkaklama@physics.auth.gr
 <a href="https://scholar.google.gr/citations?user=R6yN8vQAAAAJ&hl=en" target="_blank">Google scholar profile</a>
 <hr>
 
+## Activity
 
+<h3>(Co-)Organised events</h3>
+<ul>
+
+<details><summary><b>Recent advances in mathematical modelling in neuroscience Minisymposium</b> (<a href="https://ecmtb2022.org/" target = "blank">12th European Conference on Mathematical and Theoretical Biology</a>, 19-23 September 2022)</summary>
+<p>Dynamical systems have long been an important tool to model and understand biological phenomena, for instance in relation to neuronal, cardiac, and other physiological processes. In this framework,
+finding a sound balance between model complexity, biological plausibility and computational efficiency
+is a challenge of utmost importance, in order to not only advance our knowledge in the field, but also
+to address contemporary problems and needs in the corresponding fields of high medical and societal
+importance. In this mini-symposium, we present four recent works in the broad field of mathematical
+neuroscience; namely, each speaker presents their contribution in the advancement of one of the following
+topics: synaptic transmission; complex multi-timescale oscillations of membrane potentials; firing dynam-
+ics in pyramidal neurons and interneurons; and attractors and waves in networks of integrate-and-fire
+neurons. During the talks, the variety of tools and the methodologies which have been used to reach the
+novel analytical results on the aforementioned models will be discussed, with emphasis on open questions
+that emerged during this process and their relations to the behaviour of the corresponding biological
+systems.</p></details><br>
+
+<details><summary><b>Edinburgh Dynamical Systems Study Groups 2020-2022</b> (<a href="abstract.pdf" target = "blank">abstracts 2020</a>; <a href="abstract21.pdf" target = "blank">abstracts 2021</a>; <a href="abstract22.pdf" target = "blank">abstracts 2022</a>)</summary>
+<p>Main organiser and coordinator of series of presentations from MSc and PhD students situated across various Universities and whose work is within the broad area of dynamical systems. The aim of the initiative was to provide a forum for the participants to present their progress in an informal setting and to exchange knowledge and ideas in the field.</p></details><br>
+
+<details><summary><b>Edinburgh SIAM-IMA Study Group with Industry</b> (<a href="https://www.icms.org.uk/events/workshops/SIAMSG2021" target="_blank">Edinburgh SIAM-IMA Student Chapter Events</a>; 28 June - 1 July 2021)</summary>
+<p>The Edinburgh SIAM-IMA student chapter hosted a week-long student study group with industry supported by the Maxwell Institute for Mathematical Sciences, the Edinburgh Mathematical Society (EMS), the Glasgow Mathematical Journal Trust (GMJT), the Society for Industrial and Applied Mathematics (SIAM), and the Institute for Mathematics and its Applications (IMA). 
+
+The event offered:
+
+1.       An opportunity for graduate students to apply mathematics in an industrial setting,
+
+2.       A chance for collaboration with students from different institutions and from a wide range of research areas, and
+
+3.       Essential skills training in communication and presentation skills.
+
+This event was based on the format used for the established modelling camps and study groups, and offered an opportunity to work on real life industrial problems. </p></details><br>
+
+
+ <details><summary><b>Maxwell PG & SIAM-IMA joint Colloquium</b> (<a href="https://siam-ima.maxwell.ac.uk" target="_blank">Edinburgh SIAM-IMA Student Chapter</a> in collaboration with the <a href="https://blogs.ed.ac.uk/pgrmath/?page_id=37" target="_blank">Maxwell Institute Post Graduate Colloquium</a>; 29 January 2021)</summary>
+<p></p></details><br>
+
+<details><summary><b>PhD Alumni Talks</b> (<a href="https://siam-ima.maxwell.ac.uk/events" target="_blank">Edinburgh SIAM-IMA Student Chapter Events</a>; monthly, since October 2020)</summary>
+<p>PhD alumni from UoE and HWU were invited to talk about their industrial experience, ranging from PhD internships to start-up companies and corporate positions. Examples include alumni who had been involved with the Edinburgh SIAM-IMA Student Chapter during their studies.</p></details><br>
+
+ <details><summary><b>Maths Researh: What's it like?</b> (<a href="https://siam-ima.maxwell.ac.uk/events" target="_blank">Edinburgh SIAM-IMA Student Chapter Events</a>; 15 November 2020)</summary>
+<p>An afternoon of talks from current PhD students at Edinburgh and Heriot-Watt to give an idea of research in mathematics. The event will be of interest to undergraduate students that are inclined to pursue a PhD in the future, but also to anyone who is curious about what goes on in the department outside of	 teaching. The event could also provide a suggestion of possible areas for a research project for final year students.</p></details><br>
+
+</ul>
+<hr>
+
+<h3>Engagement / Service</h3>
+<ul>
+
+<li>Peer reviewer for the following journals:
+<ul>
+<li>Chaos: An Interdisciplinary Journal of Nonlinear Science (CHAOS)
+<li>Discrete and Continuous Dynamical Systems Series B (DCDS-B)
+<li>SIAM Journal on Applied Dynamical Systems (SIADS)
+</ul>
+<li>Member of the <a href="http://maxwell.ac.uk/siam-ima/" target="_blank">Edinburgh SIAM Student Chapter</a>  committee (fall 2019-summer 2021)
+<li>Followed the <a href="http://www.maxwell.ac.uk/graduate-school/industry-stream" target="_blank">Industry Stream</a> offered by <a href="http://www.maxwell.ac.uk/graduate-school" target="_blank">MIGS</a>, University of Edinburgh
+</ul>
+<hr>
+
+<h3>Project supervision</h3>
+<ul>
+
+<li> Hannah Riley: <b>"Applications of geometric singular perturbation theory to quantum systems"</b>; MSc Thesis in Applied & Computational Mathematics, University of Edinburgh (informal co-supervisor, spring 2021)<br> <br>
+
+<li> Cassia Edwards, Nisar Khan, Arjun N. Ramamurthy: <b>"Generalising the motion of the magnetic spherical pendulum for n magnets using numerical simulation"</b>; BSc research project, <a href="https://www.eusa.ed.ac.uk/activities/societies/society/youngresearchers/" target="_blank">Edinburgh University Youth Research Association</a> (main supervisor, December 2020 - March 2021)<br> <br>
+
+<li> Yichen Su: <b>"Mixed-mode dynamics in models for El-Ni&ntildeo southern oscillation"</b>; MSc Thesis in Applied & Computational Mathematics, University of Edinburgh (informal co-supervisor, summer 2020)
+</ul>
+<hr>
+
+<h3>Tutoring</h3>
+<b>University of Edinburgh, BSc Mathematics courses:</b>
+<ul>
+<li> Honours Differential Equations (fall 2021)
+<li> Introduction to Linear Algebra (fall 2021)
+<li> Numerical Ordinary Differential Equations & Applications <i>[in Python]</i> (spring 2020 & spring 2021)
+<li> Several Variable Calculus & Differential Equations (fall 2020)
+<li> Computing & Numerics <i>[in Python]</i> (spring 2020)
+<li> Calculus & Applications (spring 2019)
+</ul>
+
+<b>Technical University of Denmark, MSc Applied & Computational Mathematics courses:</b>
+<ul>
+<li> Typing-up exercise solutions for tutors' notes for Dynamical Systems I (spring 2018)
+<li> Scientific Computing for Differential Equations <i>[in Matlab]</i> (spring 2017 & spring 2018)
+</ul>
+<hr>
+
+
+<h3>Talks</h3>
+<ul>
+<li>Geometric singular perturbation analysis of the multi-timescale Hodgkin-Huxley equations; <a href="https://team.inria.fr/mathneuro/mathneuro-seminar-13/" target="_blank">INRIA MathNeuro Seminars</a> (4 April 2022) 
+<li>Geometric singular perturbation theory and mixed-mode oscillations; "12th Week Dedicated to Maths", Kastoria, Greece (9 May 2022) 
+<li>Geometric singular perturbation analysis of the multi-timescale Hodgkin-Huxley equations; "Multiple time scale dynamics and
+applications"-minisymposium, <a href="https://dynamicsdays2021.univ-cotedazur.fr/minisymposia2021/Multiple_time_scale_dynamics_and_applications/" target="_blank">Dynamics Days Europe 2021</a> (27 August 2021) 
+<li>Bifurcations of mixed-mode oscillations in three time-scale systems; <a href="http://math.bu.edu/dynamics/seminar.html" target="_blank">Boston University Dynamical Systems Seminar</a> (29 March 2021)
+<li>Geometric singular perturbation theory & multi-timescale dynamics; <a href="https://petkou.webpages.auth.gr/Xmas20/" target="_blank">3rd Thessaloniki Student Workshop on Theoretical Physics</a> (23 January 2021)
+<li>Geometric singular perturbation analysis of the multi-timescale Hodgkin-Huxley equations;  <a href="https://sites.google.com/view/siam-ima-reading-chapter/timetable?authuser=1" target="_blank">University of Reading SIAM-IMA Student Chapter Online Conference</a> (3 June 2020)
+<li>Near-integrable structures and Shilnikov homoclinic phenomena in three-timescale systems; Talk at the Dynamical Systems Section, Université Côte d'Azur (10 December 2019)
+<li>Mixed-mode oscillations in three-timescale systems; Seminar talk, Department of Applied Mathematics & Computer Science, Technical University of Denmark (1 October 2019)
+<li>"What is slow-fast dynamics?"; Postgraduate Colloquium, University of Edinburgh (27 September 2019)
+<li>Multiple-scale dynamics and perturbations; 5min-presentation, PhD Conference, University of Edinburgh (20 September 2019)
+<li>Geometry of an extended prototypical three-timescale system: bifurcations of mixed-mode oscillations; "Recent advances in slow-fast dynamics"-minisymposium, <a href="https://dyndays.uni-rostock.de/home/" target="_blank">Dynamics Days Europe 2019</a>, (5 September 2019) 
+<li>Geometry of an extended prototypical three-timescale system: bifurcations of mixed-mode oscillations; <a href="https://www.icms.org.uk/slowfastival.php" target="_blank">Edinburgh Slow-fast-ival workshop</a>, International Centre for Mathematical Sciences, Edinburgh (4 July 2019)
+<li> Mixed-mode oscillations in three-timescale systems, <a href="https://www.maths.manchester.ac.uk/~siam/snscc19/" target="_blank">SIAM UKIE National Student Chapter Conference</a>, Manchester, U.K (11 June 2019)
+<li> Global bifurcations of mixed-mode oscillations in three-timescale systems; Seminar talk, Aristotle University of Thessaloniki, Department of Physics (16 May 2019) 
+<li>Existence, multiplicity and stability of solutions in piecewise smooth systems with intersecting discontinuities; 10th Week dedicated to Maths, Greek Mathematical Society, Thessaloniki (29 April 2018)
+<li>Sliding vectors on codimension-2 intersections of discontinuity sets in piecewise smooth dynamical systems;  <a href="https://lfcs.lakecomoschool.org" target="_blank">Let's Face Complexity: New Bridges Between Physical and Social Sciences</a> summer school, Lake Como School of Advanced Studies, Italy (6 September 2017)
+<li> Symbolic dynamics and chaotic maps; 7th Week dedicated to Maths, Greek Mathematical Society, Thessaloniki (18 March 2015)
+</ul>
+<hr>
+
+<h3>Posters</h3>
+<ul>
+
+<li>"Geometric singular perturbation analysis of the multi-timescale Hodgkin-Huxley equations"; presented at
+<ul>	
+	<li> <a href="https://www.siam.org/conferences/cm/conference/ds21" target="_blank">SIAM Conference on Applications of Dynamical Systems - DS21</a>, (26 May 2021; <a href="https://archive.siam.org/prizes/sponsored/redsock.php" target="_blank">SIAM Red Sock Poster Award</a>)
+    </ul>    </ul>	
+<ul>
+
+
+<li>"Bifurcations of mixed-mode oscillations in three-timescale systems"; presented at
+<ul>	
+	<li> <a href="https://www.maths.ed.ac.uk/siamukie/meetings.html" target="_blank">SIAM UKIE Annual Meeting 2020</a>, ICMS, Edinburgh, UK (10 January 2020)
+	<li> MIGSAA PhD Colloquium, ICMS, Edinburgh, UK (20 September 2019)
+	<li> <a href="https://www.maths.manchester.ac.uk/~siam/snscc19/" target="_blank">SIAM UKIE National Student Chapter Conference</a>, Manchester, U.K (10-11 June 2019)
+	<li> Edinburgh SIAM Student Chapter Conference, ICMS, Edinburgh, UK (31 May 2019)
+    </ul>    </ul>	
+<ul>
+
+<li>"Regularization and geometry of piecewise smooth systems with intersecting discontinuity sets"; presented at
+<ul>	
+	<li> Edinburgh SIAM Student Chapter Conference, ICMS (31 May 2019)
+    </ul>    </ul>	
+<hr>
+
+<h3>Participation in Workshops / Conferences</h3>
+<ul>
+<li> <a href="https://ima.org.uk/18115/ima-maths-in-music-conference/" target="_blank">IMA Maths in Music Conference</a>; Royal College of Music, London, U.K. (13 to 15 July 2022)
+<li> <a href="https://www.icms.org.uk/V_ModelCamp2020.php" target="_blank">ICMS Virtual Model Camp 2020</a>; 	International Centre for Mathematical Sciences, Edinburgh, U.K. (19 to 22 May 2020)
+<li> <a href="https://www.ma.tum.de/en/department/news-events/summer-school-2019.html" target="_blank">Multiscale Phenomena in Geometry and Dynamics</a>; Summer school 2019, Technical University of Munich (organized by Christian Kuehn and Marco Cicalese; 22 to 26 July 2019)
+<li> <a href="https://www.icms.org.uk/LMS_PDEsmathbio.php" target="_blank">LMS Research School: PDEs in Mathematical Biology: Modelling and Analysis</a>; International Centre for Mathematical Studies, Edinburgh (organized by Mariya Ptashnyk and Kevin Painter; 29 April to 3 May 2019)
+<li>"Innovation through robotics"; Erasmus+ exchange program, Tallin, Estonia (17 to 28 June 2018)
+<li><a href="http://ecmimw2016.fmi.uni-sofia.bg" target="_blank">ECMI Modelling Week 2016</a>; MSc/PhD workshop, European Consortium for Mathematics in Industry, Sofia, Bulgaria (17 to 24 July 2016)
+<li><a href="https://www.sci.unich.it/mmcs2019/" target="_blank">Mathematical Modelling of Complex Systems</a>; PhD summer school, University of Patras (organized by Tassos Bountis; 20-30 July 2015)
+</ul>
+<hr>
 
