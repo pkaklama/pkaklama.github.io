@@ -207,7 +207,7 @@ applications"-minisymposium, <a href="https://dynamicsdays2021.univ-cotedazur.fr
 ### Employment
 <ul>
 <li>Postdoctoral Research Fellow, <a href="http://www.maxwell.ac.uk" target="_blank">Maxwell Institute for Mathematical Sciences</a>, University of Edinburgh, (since September 2021) </li>
-<li>Research & Development Consultant, <a href="https://www.detalytics.com" target="_blank">Detalytics</a>, Singapore (since September 2020)
+<li>Research & Development Consultant, <a href="https://www.detalytics.com" target="_blank">Detalytics</a>, Singapore (since September 2020) </li>
 <li>Mathematics Tutor, University of Edinburgh (spring 2019 - fall 2020) </li>
 <li>Mathematical Modelling & Software Development, <a href="https://www.beepanalytics.com" target="_blank">Beep Analytics</a> , Copenhagen, Denmark (fall 2016 - summer 2018) </li>
 <li>Research Assistant, Department of Applied Mathematics & Computer Science, Technical University of Denmark (fall 2017) </li>
