@@ -182,13 +182,13 @@ applications"-minisymposium, <a href="https://dynamicsdays2021.univ-cotedazur.fr
 	<li> MIGSAA PhD Colloquium, ICMS, Edinburgh, UK (20 September 2019)</li>
 	<li> <a href="https://www.maths.manchester.ac.uk/~siam/snscc19/" target="_blank">SIAM UKIE National Student Chapter Conference</a>, Manchester, U.K (10-11 June 2019)</li>
 	<li> Edinburgh SIAM Student Chapter Conference, ICMS, Edinburgh, UK (31 May 2019)</li>
-    </ul>    </ul>	
+    </ul>  </li>  </ul>	
 <ul>
 
 <li>"Regularization and geometry of piecewise smooth systems with intersecting discontinuity sets"; presented at
 <ul>	
 	<li> Edinburgh SIAM Student Chapter Conference, ICMS (31 May 2019)</li>
-    </ul>    </ul>	
+    </ul>   </li>  </ul>	
 <hr>
 
 <h3>Participation in Workshops / Conferences</h3>
