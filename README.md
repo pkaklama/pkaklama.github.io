@@ -44,7 +44,7 @@ pkaklama@physics.auth.gr
 
 ## Activity
 
-<h3>(Co-)Organised events</h3>
+### (Co-)Organised events
 <ul>
 
 <details><summary><b>Recent advances in mathematical modelling in neuroscience Minisymposium</b> (<a href="https://ecmtb2022.org/" target = "blank">12th European Conference on Mathematical and Theoretical Biology</a>, 19-23 September 2022)</summary>
@@ -132,7 +132,6 @@ This event was based on the format used for the established modelling camps and 
 <li> Computing & Numerics <i>[in Python]</i> (spring 2020) </li>
 <li> Calculus & Applications (spring 2019) </li>
 </ul>
-<br>
 
 #### Technical University of Denmark, MSc Applied & Computational Mathematics courses:
 <ul>
