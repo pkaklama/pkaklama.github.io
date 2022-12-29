@@ -170,7 +170,7 @@ applications"-minisymposium, <a href="https://dynamicsdays2021.univ-cotedazur.fr
 
 <li>"Geometric singular perturbation analysis of the multi-timescale Hodgkin-Huxley equations"; presented at
 <ul>	
-	<li> <a href="https://www.siam.org/conferences/cm/conference/ds21" target="_blank">SIAM Conference on Applications of Dynamical Systems - DS21</a>, (26 May 2021; <a href="https://archive.siam.org/prizes/sponsored/redsock.php" target="_blank">SIAM Red Sock Poster Award</a>)
+	<li> <a href="https://www.siam.org/conferences/cm/conference/ds21" target="_blank">SIAM Conference on Applications of Dynamical Systems - DS21</a>, (26 May 2021; <a href="https://archive.siam.org/prizes/sponsored/redsock.php" target="_blank">SIAM Red Sock Poster Award</a>)</li>
     </ul>   </li>
 </ul>	
 <ul>
