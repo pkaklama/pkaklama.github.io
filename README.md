@@ -90,18 +90,23 @@ This event was based on the format used for the established modelling camps and 
 </ul>
 <hr>
 
-<h3>Engagement / Service</h3>
+### Engagement / Service
 <ul>
 
 <li>Peer reviewer for the following journals:
-<ul>
-<li>Chaos: An Interdisciplinary Journal of Nonlinear Science (CHAOS)
-<li>Discrete and Continuous Dynamical Systems Series B (DCDS-B)
-<li>SIAM Journal on Applied Dynamical Systems (SIADS)
+
+	<ul> <li>Chaos: An Interdisciplinary Journal of Nonlinear Science (CHAOS) </li>
+	<li>Discrete and Continuous Dynamical Systems Series B (DCDS-B) </li>
+	<li>SIAM Journal on Applied Dynamical Systems (SIADS) </li>
+	</ul>
+	</li>
+	
+<li>Member of the <a href="http://maxwell.ac.uk/siam-ima/" target="_blank">Edinburgh SIAM Student Chapter</a>  committee (fall 2019-summer 2021)</li>
+
+	<li>Followed the <a href="http://www.maxwell.ac.uk/graduate-school/industry-stream" target="_blank">Industry Stream</a> offered by <a href="http://www.maxwell.ac.uk/graduate-school" target="_blank">MIGS</a>, University of Edinburgh</li>
+
 </ul>
-<li>Member of the <a href="http://maxwell.ac.uk/siam-ima/" target="_blank">Edinburgh SIAM Student Chapter</a>  committee (fall 2019-summer 2021)
-<li>Followed the <a href="http://www.maxwell.ac.uk/graduate-school/industry-stream" target="_blank">Industry Stream</a> offered by <a href="http://www.maxwell.ac.uk/graduate-school" target="_blank">MIGS</a>, University of Edinburgh
-</ul>
+
 <hr>
 
 <h3>Project supervision</h3>
@@ -113,6 +118,7 @@ This event was based on the format used for the established modelling camps and 
 
 <li> Yichen Su: <b>"Mixed-mode dynamics in models for El-Ni&ntildeo southern oscillation"</b>; MSc Thesis in Applied & Computational Mathematics, University of Edinburgh (informal co-supervisor, summer 2020)
 </ul>
+
 <hr>
 
 <h3>Tutoring</h3>
