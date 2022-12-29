@@ -123,9 +123,9 @@ This event was based on the format used for the established modelling camps and 
 
 #### University of Edinburgh, MSc Mathematics courses
 <ul>
-<li> Probability \& Statistics (Course organiser; spring 2023) </li>
-<li> Python Programming \& Statistics (Course co-lecturer and co-organiser; fall 2022) </li>
-<li> Intriductory Probability \& Statistics (fall 2022) </li>
+<li> Probability & Statistics <i>[Course organiser]</i> (spring 2023) </li>
+<li> Python Programming <i>[Course co-organiser and co-lecturer]</i> (fall 2022) </li>
+<li> Intriductory Probability & Statistics <i>[Course organiser]</i>(fall 2022) </li>
 </ul>
 
 ### Tutoring
