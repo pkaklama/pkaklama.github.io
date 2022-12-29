@@ -165,40 +165,41 @@ applications"-minisymposium, <a href="https://dynamicsdays2021.univ-cotedazur.fr
 </ul>
 <hr>
 
-<h3>Posters</h3>
+### Posters
 <ul>
 
 <li>"Geometric singular perturbation analysis of the multi-timescale Hodgkin-Huxley equations"; presented at
 <ul>	
 	<li> <a href="https://www.siam.org/conferences/cm/conference/ds21" target="_blank">SIAM Conference on Applications of Dynamical Systems - DS21</a>, (26 May 2021; <a href="https://archive.siam.org/prizes/sponsored/redsock.php" target="_blank">SIAM Red Sock Poster Award</a>)
-    </ul>    </ul>	
+    </ul>   </li>
+</ul>	
 <ul>
 
 
 <li>"Bifurcations of mixed-mode oscillations in three-timescale systems"; presented at
 <ul>	
-	<li> <a href="https://www.maths.ed.ac.uk/siamukie/meetings.html" target="_blank">SIAM UKIE Annual Meeting 2020</a>, ICMS, Edinburgh, UK (10 January 2020)
-	<li> MIGSAA PhD Colloquium, ICMS, Edinburgh, UK (20 September 2019)
-	<li> <a href="https://www.maths.manchester.ac.uk/~siam/snscc19/" target="_blank">SIAM UKIE National Student Chapter Conference</a>, Manchester, U.K (10-11 June 2019)
-	<li> Edinburgh SIAM Student Chapter Conference, ICMS, Edinburgh, UK (31 May 2019)
+	<li> <a href="https://www.maths.ed.ac.uk/siamukie/meetings.html" target="_blank">SIAM UKIE Annual Meeting 2020</a>, ICMS, Edinburgh, UK (10 January 2020)</li>
+	<li> MIGSAA PhD Colloquium, ICMS, Edinburgh, UK (20 September 2019)</li>
+	<li> <a href="https://www.maths.manchester.ac.uk/~siam/snscc19/" target="_blank">SIAM UKIE National Student Chapter Conference</a>, Manchester, U.K (10-11 June 2019)</li>
+	<li> Edinburgh SIAM Student Chapter Conference, ICMS, Edinburgh, UK (31 May 2019)</li>
     </ul>    </ul>	
 <ul>
 
 <li>"Regularization and geometry of piecewise smooth systems with intersecting discontinuity sets"; presented at
 <ul>	
-	<li> Edinburgh SIAM Student Chapter Conference, ICMS (31 May 2019)
+	<li> Edinburgh SIAM Student Chapter Conference, ICMS (31 May 2019)</li>
     </ul>    </ul>	
 <hr>
 
 <h3>Participation in Workshops / Conferences</h3>
 <ul>
-<li> <a href="https://ima.org.uk/18115/ima-maths-in-music-conference/" target="_blank">IMA Maths in Music Conference</a>; Royal College of Music, London, U.K. (13 to 15 July 2022)
-<li> <a href="https://www.icms.org.uk/V_ModelCamp2020.php" target="_blank">ICMS Virtual Model Camp 2020</a>; 	International Centre for Mathematical Sciences, Edinburgh, U.K. (19 to 22 May 2020)
-<li> <a href="https://www.ma.tum.de/en/department/news-events/summer-school-2019.html" target="_blank">Multiscale Phenomena in Geometry and Dynamics</a>; Summer school 2019, Technical University of Munich (organized by Christian Kuehn and Marco Cicalese; 22 to 26 July 2019)
-<li> <a href="https://www.icms.org.uk/LMS_PDEsmathbio.php" target="_blank">LMS Research School: PDEs in Mathematical Biology: Modelling and Analysis</a>; International Centre for Mathematical Studies, Edinburgh (organized by Mariya Ptashnyk and Kevin Painter; 29 April to 3 May 2019)
-<li>"Innovation through robotics"; Erasmus+ exchange program, Tallin, Estonia (17 to 28 June 2018)
-<li><a href="http://ecmimw2016.fmi.uni-sofia.bg" target="_blank">ECMI Modelling Week 2016</a>; MSc/PhD workshop, European Consortium for Mathematics in Industry, Sofia, Bulgaria (17 to 24 July 2016)
-<li><a href="https://www.sci.unich.it/mmcs2019/" target="_blank">Mathematical Modelling of Complex Systems</a>; PhD summer school, University of Patras (organized by Tassos Bountis; 20-30 July 2015)
+<li> <a href="https://ima.org.uk/18115/ima-maths-in-music-conference/" target="_blank">IMA Maths in Music Conference</a>; Royal College of Music, London, U.K. (13 to 15 July 2022)</li>
+<li> <a href="https://www.icms.org.uk/V_ModelCamp2020.php" target="_blank">ICMS Virtual Model Camp 2020</a>; 	International Centre for Mathematical Sciences, Edinburgh, U.K. (19 to 22 May 2020)</li>
+<li> <a href="https://www.ma.tum.de/en/department/news-events/summer-school-2019.html" target="_blank">Multiscale Phenomena in Geometry and Dynamics</a>; Summer school 2019, Technical University of Munich (organized by Christian Kuehn and Marco Cicalese; 22 to 26 July 2019)</li>
+<li> <a href="https://www.icms.org.uk/LMS_PDEsmathbio.php" target="_blank">LMS Research School: PDEs in Mathematical Biology: Modelling and Analysis</a>; International Centre for Mathematical Studies, Edinburgh (organized by Mariya Ptashnyk and Kevin Painter; 29 April to 3 May 2019)</li>
+<li>"Innovation through robotics"; Erasmus+ exchange program, Tallin, Estonia (17 to 28 June 2018)</li>
+<li><a href="http://ecmimw2016.fmi.uni-sofia.bg" target="_blank">ECMI Modelling Week 2016</a>; MSc/PhD workshop, European Consortium for Mathematics in Industry, Sofia, Bulgaria (17 to 24 July 2016)</li>
+<li><a href="https://www.sci.unich.it/mmcs2019/" target="_blank">Mathematical Modelling of Complex Systems</a>; PhD summer school, University of Patras (organized by Tassos Bountis; 20-30 July 2015)</li>
 </ul>
 <hr>
 
