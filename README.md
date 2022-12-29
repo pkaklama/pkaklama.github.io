@@ -9,7 +9,7 @@ I am a Postdoctoral Research Fellow at the <a href="http://www.maxwell.ac.uk" ta
 I completed my PhD in Applied & Computational Mathematics at the <a href="http://www.maxwell.ac.uk/graduate-school" target="_blank">Maxwell Institute Gaduate School (MIGS)</a>, University of Edinburgh. I followed the <a href="http://wwwnew.maxwell.ac.uk/graduate-school/general-programme/industry-stream/" target="_blank">Industry Stream</a> offered by MIGS, and I was president of the <a href="https://siam-ima.maxwell.ac.uk/index" target="_blank">Edinburgh SIAM-IMA Student Chapter</a> during my final year. </p>
 
 
-<p style="text-align:justify"><b>Address:</b><br>
+<p style="text-align:justify"><b>Address:</b> <br>
 School of Mathematics and Maxwell Institute of Mathematical Sciences<br>
 University of Edinburgh<br>
 James Clerk Maxwell Building, Room 5402 <br>
@@ -22,8 +22,8 @@ pkaklama@physics.auth.gr
 </div>
 
 
-<div style="float:left; width:100%; font-size:17.4px">
-<h3>Publications (click for details)</h3>
+
+<b>Publications (click for details)</b> <br>
 
 
 <ul>
