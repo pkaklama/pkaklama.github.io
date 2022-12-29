@@ -109,7 +109,7 @@ This event was based on the format used for the established modelling camps and 
 
 <hr>
 
-<h3>Project supervision</h3>
+### Project supervision
 <ul>
 
 <li> Hannah Riley: <b>"Applications of geometric singular perturbation theory to quantum systems"</b>; MSc Thesis in Applied & Computational Mathematics, University of Edinburgh (informal co-supervisor, spring 2021)<br> <br>
@@ -121,21 +121,23 @@ This event was based on the format used for the established modelling camps and 
 
 <hr>
 
-<h3>Tutoring</h3>
+### Tutoring
+
 <b>University of Edinburgh, BSc Mathematics courses:</b>
 <ul>
-<li> Honours Differential Equations (fall 2021)
-<li> Introduction to Linear Algebra (fall 2021)
-<li> Numerical Ordinary Differential Equations & Applications <i>[in Python]</i> (spring 2020 & spring 2021)
-<li> Several Variable Calculus & Differential Equations (fall 2020)
-<li> Computing & Numerics <i>[in Python]</i> (spring 2020)
-<li> Calculus & Applications (spring 2019)
+<li> Honours Differential Equations (fall 2021) </li>
+<li> Introduction to Linear Algebra (fall 2021) </li>
+<li> Numerical Ordinary Differential Equations & Applications <i>[in Python]</i> (spring 2020 & spring 2021) </li>
+<li> Several Variable Calculus & Differential Equations (fall 2020) </li>
+<li> Computing & Numerics <i>[in Python]</i> (spring 2020) </li>
+<li> Calculus & Applications (spring 2019) </li>
 </ul>
+<br>
 
 <b>Technical University of Denmark, MSc Applied & Computational Mathematics courses:</b>
 <ul>
-<li> Typing-up exercise solutions for tutors' notes for Dynamical Systems I (spring 2018)
-<li> Scientific Computing for Differential Equations <i>[in Matlab]</i> (spring 2017 & spring 2018)
+<li> Typing-up exercise solutions for tutors' notes for Dynamical Systems I (spring 2018) </li>
+<li> Scientific Computing for Differential Equations <i>[in Matlab]</i> (spring 2017 & spring 2018) </li>
 </ul>
 <hr>
 
