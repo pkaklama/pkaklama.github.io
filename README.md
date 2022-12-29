@@ -1,6 +1,6 @@
 # Panagiotis Kaklamanos
 
-<div style="float:left; width:50%; font-size:17.4px">
+%<div style="float:left; width:50%; font-size:17.4px">
 
 <p style="text-align:justify"><b>Summary:</b> <br>
 I am a Postdoctoral Research Fellow at the <a href="http://www.maxwell.ac.uk" target="_blank">Maxwell Institute for Mathematical Sciences</a>, University of Edinburgh. My research focusses on theory and applications of dynamical systems, in particular on the study of systems that feature multiple timescales, using geometric singular perturbation theory.</p> 
@@ -19,4 +19,4 @@ Edinburgh EH9 3FD, United Kingdom</p>
 <p style="text-align:justify"><b>Email:</b><br>
 pkaklama@ed.ac.uk<br>
 pkaklama@physics.auth.gr  
-</div>
+%</div>
