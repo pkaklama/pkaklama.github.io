@@ -29,7 +29,7 @@ pkaklama@physics.auth.gr
 <details><summary><b>P. K.</b>, N. Popovic: "Mixed-mode dynamics of the three-timescale El-Ni&ntildeo Southern Oscillation (ENSO) phenomenon" <i>(submitted; <a href="https://arxiv.org/abs/2207.03230" target="_blank">arXiv preprint</a>)</i></summary>
 <p><b>Abstract:</b>		We study the three-timescale dynamics of a model that describes the El Niño Southern Oscillation (ENSO) phenomenon, which was proposed in [A. Roberts, J. Guckenheimer, E. Widiasih, A. Timmermann, and C. K. Jones, Mixed-mode oscillations of El Niño--Southern Oscillation, Journal of the Atmospheric Sciences, 73 (2016), pp. 1755--1766]. While ENSO phenomena are inherently characterised by the presence of multiple distinct timescales, the above model has previously been studied in a two-timescale context only. Here, we uncover the geometric mechanisms that are responsible for complex oscillatory dynamics in a three-timescale regime, and we demonstrate that the system exhibits a variety of qualitatively different behaviours, such as mixed-mode oscillation (MMO) with ``plateaus" -- trajectories where epochs of quiescence alternate with dramatic excursions -- and relaxation oscillation. The latter, although emergent also in the two-timescale context in appropriate parameter regimes, had not been documented previously. Moreover, we show that these mechanisms are relevant to models from other fields of ecological and population dynamics, as the underlying geometry is similar to the unfolding of Rosenzweig--MacArthur-type models in three dimensions.</p></details><br>
 
-<details><summary><b>P. K.</b>, N. Popovic, K. U. Kristiansen: "Geometric singular perturbation analysis of the multi-timescale Hodgkin-Huxley equations" (submitted; <a href="https://arxiv.org/abs/2203.02948" target="_blank">arXiv preprint</a>)</summary>
+<details><summary><b>P. K.</b>, N. Popovic, K. U. Kristiansen: "Geometric singular perturbation analysis of the multiple-timescale Hodgkin-Huxley equations" (submitted; <a href="https://arxiv.org/abs/2203.02948" target="_blank">arXiv preprint</a>)</summary>
 <p><b>Abstract:</b>		  We consider a non-dimensionalised version of the four-dimensional Hodgkin-Huxley equations [J. Rubin and M. Wechselberger, Giant squid-hidden canard: the 3D geometry of the Hodgkin-Huxley model, Biological Cybernetics, 97 (2007), pp. 5-32], and we present a novel and global three-dimensional reduction that is based on geometric singular perturbation theory (GSPT). We investigate the dynamics of the resulting reduced system in two parameter regimes in which the flow evolves on three distinct timescales. Specifically, we demonstrate that the system exhibits bifurcations of oscillatory dynamics and complex mixed-mode oscillations (MMOs), in accordance with the geometric mechanisms introduced in [P. Kaklamanos, N. Popović, and K. U. Kristiansen, Bifurcations of mixed-mode oscillations in three-timescale systems: An extended prototypical example, Chaos: An Interdisciplinary Journal of Nonlinear Science, 32 (2022), p. 013108], and we classify the various firing patterns in dependence of the external applied current. While such patterns have been documented in [S. Doi, S. Nabetani, and S. Kumagai, Complex nonlinear dynamics of the Hodgkin-Huxley equations induced by time scale changes, Biological Cybernetics, 85 (2001), pp. 51-64] for the multi-timescale Hodgkin-Huxley equations, we elucidate the geometry that underlies the transitions between them, which had not been previously emphasised.  parameter. </p></details><br>
 
 <details><summary><b>P. K.</b>, N. Popovic, K. U. Kristiansen:  "Bifurcations of mixed-mode oscillations in three-timescale systems: an extended prototypical example" <i> Chaos 32, 013108 </i> (2022);  <a href="https://aip.scitation.org/doi/10.1063/5.0073353" target="_blank">CHAOS link</a>, <a href="http://arxiv.org/abs/2009.04316" target="_blank">arXiv preprint</a></summary>
@@ -112,9 +112,9 @@ This event was based on the format used for the established modelling camps and 
 ### Project supervision
 <ul>
 
-<li> Hannah Riley: <b>"Applications of geometric singular perturbation theory to quantum systems"</b>; MSc Thesis in Applied & Computational Mathematics, University of Edinburgh (informal co-supervisor, spring 2021)</li><br> <br>
-
-<li> Cassia Edwards, Nisar Khan, Arjun N. Ramamurthy: <b>"Generalising the motion of the magnetic spherical pendulum for n magnets using numerical simulation"</b>; BSc research project, <a href="https://www.eusa.ed.ac.uk/activities/societies/society/youngresearchers/" target="_blank">Edinburgh University Youth Research Association</a> (main supervisor, December 2020 - March 2021)</li><br> <br>
+<li> Hannah Riley: <b>"Applications of geometric singular perturbation theory to quantum systems"</b>; MSc Thesis in Applied & Computational Mathematics, University of Edinburgh (informal co-supervisor, spring 2021)</li><br> 
+	
+<li> Cassia Edwards, Nisar Khan, Arjun N. Ramamurthy: <b>"Generalising the motion of the magnetic spherical pendulum for n magnets using numerical simulation"</b>; BSc research project, <a href="https://www.eusa.ed.ac.uk/activities/societies/society/youngresearchers/" target="_blank">Edinburgh University Youth Research Association</a> (main supervisor, December 2020 - March 2021)</li><br> 
 
 <li> Yichen Su: <b>"Mixed-mode dynamics in models for El-Ni&ntildeo southern oscillation"</b>; MSc Thesis in Applied & Computational Mathematics, University of Edinburgh (informal co-supervisor, summer 2020) </li>
 </ul>
@@ -144,7 +144,7 @@ This event was based on the format used for the established modelling camps and 
 
 #### Technical University of Denmark, MSc Applied & Computational Mathematics courses:
 <ul>
-<li> Typing-up exercise solutions for tutors' notes for Dynamical Systems I (spring 2018) </li>
+<li> Dynamical Systems I <i>[typing-up exercise solutions for tutors' notes]</i> (spring 2018) </li>
 <li> Scientific Computing for Differential Equations <i>[in Matlab]</i> (spring 2017 & spring 2018) </li>
 </ul>
 <hr>
@@ -215,7 +215,7 @@ applications"-minisymposium, <a href="https://dynamicsdays2021.univ-cotedazur.fr
 
 ### Employment
 <ul>
-<li>Postdoctoral Research Fellow, <a href="http://www.maxwell.ac.uk" target="_blank">Maxwell Institute for Mathematical Sciences</a>, University of Edinburgh, (since September 2021) </li>
+<li>Postdoctoral Research Fellow, <a href="http://www.maxwell.ac.uk" target="_blank">Maxwell Institute for Mathematical Sciences</a>, University of Edinburgh (since September 2021) </li>
 <li>Research & Development Consultant, <a href="https://www.detalytics.com" target="_blank">Detalytics</a>, Singapore (since September 2020) </li>
 <li>Mathematics Tutor, University of Edinburgh (spring 2019 - fall 2020) </li>
 <li>Mathematical Modelling & Software Development, <a href="https://www.beepanalytics.com" target="_blank">Beep Analytics</a> , Copenhagen, Denmark (fall 2016 - summer 2018) </li>
