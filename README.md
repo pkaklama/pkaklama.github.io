@@ -202,3 +202,49 @@ applications"-minisymposium, <a href="https://dynamicsdays2021.univ-cotedazur.fr
 </ul>
 <hr>
 
+## Bio
+
+### Employment
+<ul>
+<li>Postdoctoral Research Fellow, <a href="http://www.maxwell.ac.uk" target="_blank">Maxwell Institute for Mathematical Sciences</a>, University of Edinburgh, (since September 2021) </li>
+<li>Research & Development Consultant, <a href="https://www.detalytics.com" target="_blank">Detalytics</a>, Singapore (since September 2020)
+<li>Mathematics Tutor, University of Edinburgh (spring 2019 - fall 2020) </li>
+<li>Mathematical Modelling & Software Development, <a href="https://www.beepanalytics.com" target="_blank">Beep Analytics</a> , Copenhagen, Denmark (fall 2016 - summer 2018) </li>
+<li>Research Assistant, Department of Applied Mathematics & Computer Science, Technical University of Denmark (fall 2017) </li>
+<li>Teaching Assistant, Department of Applied Mathematics & Computer Science, Technical University of Denmark (spring 2017 & spring 2018) </li>
+</ul>
+<hr>
+
+
+### Education
+<ul>
+<li>PhD in Applied Mathematics, University of Edinburgh (2021; supervised by <a href="https://www.maths.ed.ac.uk/~npopovic/index.html" target="_blank">Nikola Popovic</a>  and <a href="https://www.dtu.dk/english/service/phonebook/person?id=17660&tab=1" target="_blank">Kristian Uldall Kristiansen</a>)  
+<ul>
+      <li>Research Traineeship in Dynamical Systems Theory ("Chaotic dynamics in multiple-timescale systems"), Université Côte d'Azur (fall 2019; hosted by <a href="https://who.rocq.inria.fr/Maciej.Krupa/" target="_blank">Martin Krupa</a>) </li>
+    </ul>  </li>
+<li>MSc in Applied Mathematics, Technical University of Denmark (2017; thesis supervised by <a href="https://www.dtu.dk/english/service/phonebook/person?id=17660&tab=1" target="_blank">Kristian Uldall Kristiansen</a>) </li>
+<li>BSc (Hons) in Physics, Aristotle University of Thessaloniki (2015; thesis supervised by <a href="http://users.auth.gr/~efthymia/" target="_blank">Efthymia Meletlidou</a>) </li>
+</ul>
+<hr>
+
+### Honours & Awards
+<ul>
+<li>Recipient of the "Maxwell Institute Postdoctoral Research Fellowship 2020-2021", University of Edinburgh </li>
+<li>Recipient of the "<a href="https://dsweb.siam.org/The-Magazine/All-Issues/ds21-red-sock-awards" target="_blank">SIAM Red Sock Poster Award</a>" for a poster presentation at
+ <a href="https://www.siam.org/conferences/cm/conference/ds21" target="_blank">SIAM Conference on Applications of Dynamical Systems - DS21</a>  </li>
+<li>Recipient of the "Principal's Career Development Scholarship" for PhD studies, University of Edinburgh </li>
+<li>Graduated in three instead of four semesters, MSc in Applied Mathematics, Technical University of Denmark </li>
+<li>Among the top 5% at the time of graduation, BSc (Hons) in Physics, Aristotle University of Thessaloniki  </li>
+</ul>
+<hr>
+
+### Music education
+<ul>
+<li>Composition Diploma; State Conservatory of Thessaloniki (in progress) </li>
+<li>Instrumentation for wind instruments Degree; "Echogenesis" Conservatory of Athens (2020) </li>
+<li>Fugue Degree; "Opera" Conservatory of Athens (2018) </li>
+<li>Counterpoint Degree; State Conservatory of Thessaloniki (2015) </li>
+<li>Harmony Degree; State Conservatory of Thessaloniki (2013) </li>
+</ul>
+<hr>
+
